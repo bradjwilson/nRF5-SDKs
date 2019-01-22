@@ -55,6 +55,7 @@
 #include "nrf_delay.h"
 #include "nrf.h"
 #include "bsp.h"
+#include "boards.h"
 #if defined (UART_PRESENT)
 #include "nrf_uart.h"
 #endif
@@ -180,6 +181,14 @@ int main(void)
             {
                 // Do nothing.
             }
+        }
+        else if (cr == '1'){
+          printf(" \r\nLED Should Be On\r\n");
+          bsp_board_led_on(1);
+        }
+       else if (cr == '0'){
+          printf(" \r\nLED Should Be Off\r\n");
+          bsp_board_led_off(1);
         }
     }
 #else

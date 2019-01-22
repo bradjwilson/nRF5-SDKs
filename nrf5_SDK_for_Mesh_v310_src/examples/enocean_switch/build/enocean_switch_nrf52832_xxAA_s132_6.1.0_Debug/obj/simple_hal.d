@@ -18,8 +18,10 @@ build/enocean_switch_nrf52832_xxAA_s132_6.1.0_Debug/obj/simple_hal.o: \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/modules/nrfx/mdk/compiler_abstraction.h \
  ../common/include/nrf_mesh_config_examples.h \
  include/nrf_mesh_config_app.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.12/include/stddef.h \
+ C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.12/include/stdio.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.12/include/__crossworks.h \
+ C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.12/include/stdlib.h \
+ C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.12/include/stddef.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/softdevice/s132/headers/nrf_error.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/boards/boards.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/modules/nrfx/hal/nrf_gpio.h \
@@ -46,7 +48,6 @@ build/enocean_switch_nrf52832_xxAA_s132_6.1.0_Debug/obj/simple_hal.o: \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/softdevice/s132/headers/nrf_nvic.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/libraries/util/nrf_assert.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/libraries/util/app_error.h \
- C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.12/include/stdio.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/libraries/util/sdk_errors.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/libraries/util/app_error_weak.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/modules/nrfx/soc/nrfx_coredep.h \
