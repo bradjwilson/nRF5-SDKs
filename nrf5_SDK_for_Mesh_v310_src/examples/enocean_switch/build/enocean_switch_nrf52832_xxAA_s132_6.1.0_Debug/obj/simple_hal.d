@@ -56,7 +56,7 @@ build/enocean_switch_nrf52832_xxAA_s132_6.1.0_Debug/obj/simple_hal.o: \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/softdevice/s132/headers/nrf_sd_def.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/modules/nrfx/drivers/nrfx_errors.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/boards/pca10040.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/libraries/delay/nrf_delay.h \
+ C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/drivers_nrf/delay/nrf_delay.h \
  ../../mesh/core/api/nrf_mesh_defines.h ../../mesh/core/include/timer.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/libraries/timer/app_timer.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/libraries/util/app_error.h

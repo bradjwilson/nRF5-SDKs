@@ -121,14 +121,12 @@ void hal_led_pin_set(uint32_t pin, bool value)
     if (value)
     {
         NRF_GPIO->OUTCLR = (1 << pin);
-        delay(1000);
-        NRF_GPIO->OUTCLR = (1 << pin);
+
     }
     else
     {
         NRF_GPIO->OUTSET = (1 << pin);
-        delay(1000);
-        NRF_GPIO->OUTSET = (1 << pin);
+
     }
 }
 
