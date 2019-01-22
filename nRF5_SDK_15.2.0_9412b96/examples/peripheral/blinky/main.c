@@ -68,6 +68,7 @@ int main(void)
         {
             bsp_board_led_invert(i);
             nrf_delay_ms(500);
+            bsp_board_led_invert(i);
         }
     }
 }
