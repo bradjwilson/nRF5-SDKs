@@ -41,8 +41,9 @@
 #include "boards.h"
 #include "nrf_delay.h"
 #include "simple_hal.h"
-#include "app_timer.h"
 
+/*PWM*/
+#include "nrf_drv_pwm.h"
 /* Core */
 #include "nrf_mesh_config_core.h"
 #include "nrf_mesh_gatt.h"
