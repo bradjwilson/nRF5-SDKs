@@ -14,8 +14,6 @@
   <ProjectSessionItem path="enocean_switch_nrf52832_xxAA_s132_6.1.0"/>
   <ProjectSessionItem path="enocean_switch_nrf52832_xxAA_s132_6.1.0;enocean_switch_nrf52832_xxAA_s132_6.1.0"/>
   <ProjectSessionItem path="enocean_switch_nrf52832_xxAA_s132_6.1.0;enocean_switch_nrf52832_xxAA_s132_6.1.0;Application"/>
-  <ProjectSessionItem path="enocean_switch_nrf52832_xxAA_s132_6.1.0;enocean_switch_nrf52832_xxAA_s132_6.1.0;Configuration Model"/>
-  <ProjectSessionItem path="enocean_switch_nrf52832_xxAA_s132_6.1.0;enocean_switch_nrf52832_xxAA_s132_6.1.0;Other"/>
  </Project>
  <Register1/>
  <Register2/>
@@ -41,7 +39,7 @@
  </Watch4>
  <Files>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../doc/getting_started/SES.md" selected="0" top="0" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="211" useTextEdit="1" useBinaryEdit="0" left="0" path="src/main.c" selected="1" top="177" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="26" y="48" useTextEdit="1" useBinaryEdit="0" left="0" path="src/main.c" selected="1" top="36" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="45" useTextEdit="1" useBinaryEdit="0" left="0" path="../../mesh/core/api/nrf_mesh.h" selected="0" top="19" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="76" useTextEdit="1" useBinaryEdit="0" left="0" path="../../models/foundation/config/src/config_server.c" selected="0" top="66" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../models/foundation/config/src/composition_data.c" selected="0" top="111" codecName="Default"/>
@@ -51,6 +49,11 @@
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="184" useTextEdit="1" useBinaryEdit="0" left="0" path="../../models/model_spec/generic_onoff/src/generic_onoff_client.c" selected="0" top="164" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../models/model_spec/common/src/model_common.c" selected="0" top="174" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../external/app_timer/app_timer_mesh.c" selected="0" top="57" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="141" useTextEdit="1" useBinaryEdit="0" left="0" path="../../mesh/access/api/access_config.h" selected="0" top="111" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="include/sdk_config.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="4565" useTextEdit="1" useBinaryEdit="0" left="0" path="sdk_config.h" selected="0" top="4552" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../nRF5_SDK_15.2.0_9412b96/components/libraries/util/app_util_platform.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../nRF5_SDK_15.2.0_9412b96/modules/nrfx/hal/nrf_gpio.h" selected="0" top="57" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="enocean_switch_nrf52832_xxAA_s132_6.1.0" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+ <ARMCrossStudioWindow activeProject="enocean_switch_nrf52832_xxAA_s132_6.1.0" fileDialogDefaultFilter="" autoConnectTarget="J-Link" buildConfiguration="Debug" debugSearchFileMap="" fileDialogInitialDirectory="C:/Nordic Semiconductor/nRF5_SDK_15.2.0_9412b96/components/drivers_nrf/pwm" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>

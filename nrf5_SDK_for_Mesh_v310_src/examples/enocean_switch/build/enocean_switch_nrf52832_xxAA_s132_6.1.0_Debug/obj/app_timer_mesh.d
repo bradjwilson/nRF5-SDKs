@@ -40,20 +40,7 @@ build/enocean_switch_nrf52832_xxAA_s132_6.1.0_Debug/obj/app_timer_mesh.o: \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/softdevice/s132/headers/nrf_svc.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/softdevice/s132/headers/nrf_error.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/softdevice/s132/headers/nrf_error_soc.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/libraries/delay/nrf_delay.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/modules/nrfx/nrfx.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/integration/nrfx/nrfx_config.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/modules/nrfx/drivers/nrfx_common.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/integration/nrfx/nrfx_glue.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/integration/nrfx/legacy/apply_old_config.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/modules/nrfx/soc/nrfx_irqs.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/modules/nrfx/soc/nrfx_irqs_nrf52832.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/libraries/util/nrf_assert.h \
+ C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/drivers_nrf/delay/nrf_delay.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/libraries/util/app_util_platform.h \
  C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/softdevice/s132/headers/nrf_nvic.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/libraries/util/app_error.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/modules/nrfx/soc/nrfx_coredep.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/libraries/util/sdk_errors.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/libraries/util/sdk_resources.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/softdevice/s132/headers/nrf_sd_def.h \
- C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/modules/nrfx/drivers/nrfx_errors.h
+ C:/Nordic\ Semiconductor/nRF5_SDK_15.2.0_9412b96/components/libraries/util/app_error.h

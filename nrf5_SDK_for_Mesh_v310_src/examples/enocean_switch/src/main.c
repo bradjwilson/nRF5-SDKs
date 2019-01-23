@@ -34,16 +34,20 @@
  * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
  * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-
+#include <stdbool.h>
+#include <stdint.h>
 #include <stdio.h>
 
+#include "nrf.h"
+
+#include "app_pwm.h"
 /* HAL */
 #include "boards.h"
 #include "nrf_delay.h"
 #include "simple_hal.h"
 
 /*PWM*/
-#include "nrf_drv_pwm.h"
+//#include "nrf_drv_pwm.h"
 /* Core */
 #include "nrf_mesh_config_core.h"
 #include "nrf_mesh_gatt.h"
@@ -247,6 +251,7 @@ static void app_enocean_cb(enocean_evt_t * p_evt)
 
         app_switch_debounce(&p_evt->params.data.status, enocean_device_index_get(p_evt));
     }
+   
     else if (p_evt->type == ENOCEAN_EVT_SECURITY_MATERIAL_RECEIVED)
     {
         if (m_enocean_dev_cnt < MAX_ENOCEAN_DEVICES_SUPPORTED)

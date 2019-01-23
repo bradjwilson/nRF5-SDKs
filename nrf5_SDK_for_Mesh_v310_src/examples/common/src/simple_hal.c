@@ -122,6 +122,7 @@ void hal_led_pin_set(uint32_t pin, bool value)
     {
         NRF_GPIO->OUTCLR = (1 << pin);
 
+
     }
     else
     {
